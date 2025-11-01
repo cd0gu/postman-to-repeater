@@ -1,0 +1,8 @@
+{
+  "id": "example-env",
+  "name": "Env",
+  "values": [
+    { "key": "name", "value": "FromEnv", "enabled": true }
+  ],
+  "_postman_variable_scope": "environment"
+}
